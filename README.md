@@ -1,4 +1,4 @@
-# 🇺🇸 N-400 Naturalization Helper for Mom
+# 🇺🇸 N-400 Naturalization Helper
 
 This repository contains a comprehensive, AI-powered web application designed to help prepare for the U.S. Naturalization Test (N-400). This free practice platform covers all aspects of the citizenship test with interactive exercises and real-time feedback.
 
